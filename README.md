@@ -1,4 +1,4 @@
- <h1 align="center">Olá, eu sou Raul Mouzinho 👋</h1>
+ <h1 align="center" background-color="#ffff">Olá, eu sou Raul Mouzinho 👋</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/Raulista40" width="150" style="border-radius: 50%;" alt="Foto de perfil">
