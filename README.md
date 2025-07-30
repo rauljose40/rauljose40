@@ -10,7 +10,7 @@
 - 🚀 Foco em **HTML, CSS, JavaScript, Git & GitHub**
 - 📚 A aprender **React.js** e **Node.js**
 - 🌍 Luanda, Angola
-- 📫 Contacto: [Instagram](https://www.instagram.com/raul.jose40/) | [WhatsApp](974387057)
+- 📫 Contacto: [Instagram](https://www.instagram.com/raul.jose40/) | [WhatsApp]((https://web.whatsapp.com/))
 
 ---
 
