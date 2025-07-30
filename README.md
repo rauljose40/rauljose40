@@ -1,4 +1,4 @@
- <h1 align="center" background-color="#ffff">Olá, eu sou Raul Mouzinho 👋</h1>
+ <h1 align="center" background-color="#fffff">Olá, eu sou Raul Mouzinho 👋</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/Raulista40" width="150" style="border-radius: 50%;" alt="Foto de perfil">
@@ -10,7 +10,7 @@
 - 🚀 Foco em **HTML, CSS, JavaScript, Git & GitHub**
 - 📚 A aprender **React.js** e **Node.js**
 - 🌍 Luanda, Angola
-- 📫 Contacto: [Instagram](https://www.instagram.com/raul.jose40/) | [WhatsApp](https://web.whatsapp.com/)
+- 📫 Contacto: [Instagram](https://www.instagram.com/raul.jose40/) | [WhatsApp](974387057)
 
 ---
 
